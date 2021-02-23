@@ -535,7 +535,8 @@ header img
 .lien_bulle_activites
 {
     border-radius: 15px;
-    width: 22%;
+    margin-right: 2rem;
+    width: 23%;
 }
 .element_1_4{
     height: 400px;
